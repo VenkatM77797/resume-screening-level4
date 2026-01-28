@@ -23,7 +23,7 @@ resume-screening-level4/
 ├── simple_ats_level4.py
 ├── requirements.txt
 ├── README.md
-└── resumes/
+└── resumes/ (Make sure you create a resumes folder and import resumes which you have in that(resumes) folder)
 
 ## How to Run
 
@@ -57,3 +57,4 @@ This system helps automate resume screening and candidate ranking using simple r
 ## Author
 
 Venkat Mandarapu
+
