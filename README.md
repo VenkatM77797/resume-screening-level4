@@ -1,6 +1,3 @@
-========================
-README.md
-========================
 # Resume Screening System (Simple Level 4 ATS)
 
 This project is a simple Applicant Tracking System (ATS) built using Python.
@@ -58,4 +55,5 @@ This system helps automate resume screening and candidate ranking using simple r
 - Job description based skill input
 
 ## Author
+
 Venkat Mandarapu
