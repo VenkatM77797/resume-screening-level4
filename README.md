@@ -15,7 +15,7 @@ It scans resumes in PDF format, checks must-have skills, estimates experience, s
 - Ranking of resumes based on final score
 
 ## Tech Stack
-- Python
+- PythoN
 - PyPDF2
 
 ## Folder Structure
@@ -57,4 +57,5 @@ This system helps automate resume screening and candidate ranking using simple r
 ## Author
 
 Venkat Mandarapu
+
 
