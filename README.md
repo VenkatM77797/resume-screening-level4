@@ -34,7 +34,8 @@ pip install -r requirements.txt
 Create a folder named `resumes` and add PDF resumes.
 
 3. Run the script
-python simple_ats_level4.py
+python simple_ats_level4.py OR
+python -m streamlit run resume_screening_level4.py
 
 ## Sample Output
 Rank #1  
@@ -57,5 +58,6 @@ This system helps automate resume screening and candidate ranking using simple r
 ## Author
 
 Venkat Mandarapu
+
 
 
