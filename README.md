@@ -15,7 +15,7 @@ It scans resumes in PDF format, checks must-have skills, estimates experience, s
 - Ranking of resumes based on final score
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" / <img src="https://img.shields.io/badge/PyPDF2-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/PyPDF2-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
 
 ## Folder Structure
 resume-screening-level4/
@@ -57,6 +57,7 @@ This system helps automate resume screening and candidate ranking using simple r
 ## Author
 
 Venkat Mandarapu
+
 
 
 
