@@ -3,6 +3,9 @@
 This project is a simple Applicant Tracking System (ATS) built using Python.
 
 It scans resumes in PDF format, checks must-have skills, estimates experience, scores candidates, and ranks them to support recruiter shortlisting.
+hththrrhrthtrhr
+htrhor
+hrtihm
 
 ## Features
 - PDF resume parsing
